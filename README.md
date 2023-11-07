@@ -4,10 +4,9 @@
 ## Python files for Python introductory Course
 
 ### Running Notebooks Online:
-You can run the main Notebook in your Browser using the next icons. 
+1. You can run the main Notebook in your Browser using the next icons:
     * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/PythonBasicCourse.ipynb)   
-(You may need to login with an Google Account)
-
+    * (You may need to login with an Google Account)
     * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD) 
 
 ### If you prefer running Jupyter locally on your PC:
