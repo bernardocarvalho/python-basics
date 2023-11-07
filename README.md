@@ -1,10 +1,11 @@
 # Python Basic Course Jupyter Notebooks on [GitHub](https://github.com/bernardocarvalho/python-basics)
 ### https://github.com/bernardocarvalho/python-basics
 
-## Python files for Python introductory Course
+## Python files for Python 3 introductory Course
 
 ### Running Notebooks Online:
-1. You can run the main Notebook directly in your Browser, clicking one of the next icons:
+1. You can run and pratice main Python Tutorial Notebook directly in your Browser.
+Just click one of the next icons:
     * PythonBasicCourse [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/PythonBasicCourse.ipynb) (You may need to login with an Google Account)
     * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD) 
 
