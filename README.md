@@ -1,15 +1,16 @@
-# python-basics Jupyter Notebooks on [GitHub](https://github.com/bernardocarvalho/python-basics)
+# Python Basic Course Jupyter Notebooks on [GitHub](https://github.com/bernardocarvalho/python-basics)
 ### https://github.com/bernardocarvalho/python-basics
 
 ## Python files for Python introductory Course
 
 ### Running Notebooks Online:
 You can run the main Notebook in your Browser using the next icons. 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/python_basics.ipynb)   
+    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/PythonBasicCourse.ipynb)   
 (You may need to login with an Google Account)
 
-### Running Notebooks locally:
+    * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD) 
+
+### If you prefer running Jupyter locally on your PC:
 
 1. Install JupyterLab in your system. Options are:
     * (MAC/Windows/Linux). Install [Anaconda](https://anaconda.org/conda-forge/download)
