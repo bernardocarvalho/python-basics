@@ -4,12 +4,12 @@
 ## Python files for Python 3 introductory Course
 
 ### Running Notebooks Online:
-1. You can run and pratice main Python Tutorial Notebook directly in your Browser.
+1. You can run and pratice Python with the Tutorial Notebook directly in your Browser.
 Just click one of the next icons:
     * PythonBasicCourse [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/PythonBasicCourse.ipynb) (You may need to login with an Google Account)
     * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD) 
-
-### If you prefer running Jupyter locally on your PC:
+2. If you want to take a quick look at the code, click https://github.com/bernardocarvalho/python-basics/blob/main/PythonBasicCourse.ipynb
+### Int f you prefer running Jupyter locally on your PC:
 
 1. Install JupyterLab in your system. Options are:
     * (MAC/Windows/Linux). Install [Anaconda](https://anaconda.org/conda-forge/download)
