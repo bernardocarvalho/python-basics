@@ -6,8 +6,11 @@
 1. You can run and pratice Python Notebook directly in your Browser.
 Just click one of the next icons:
     * Lab Calorimetria [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/fisica-leec/fisica-2-calorimetria.ipynb) (You may need to login with an Google Account)
-	* Lab Efeito Fotoeletrico[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/fisica-leec/fisica-2-calorimetria.ipynb)
-2. If you want to take a quick look at the code, click [fisica-2-calorimetria.ipynb](https://github.com/bernardocarvalho/python-basics/blob/main/fisica-leec/fisica-2-efeito-fotoeletrico.ipynb).
+	* Lab Efeito Fotoeletrico[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/fisica-leec/fisica-2-efeito-fotoeletrico.ipynb)
+
+2. If you want to take a quick look at the code,
+click [fisica-2-calorimetria.ipynb](https://github.com/bernardocarvalho/python-basics/blob/main/fisica-leec/fisica-2-efeito-fotoeletrico.ipynb).
 
 ## Jupyter Notebooks contain "Code" and "Text" _Cells_
 
