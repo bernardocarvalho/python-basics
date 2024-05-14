@@ -4,3 +4,4 @@ scipy
 ipywidgets
 mpld3
 ipympl
+pandas
